@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@ranthonym/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A mini clone of the [Lodash](https://lodash.com) library created and published by me as part of my learnings at Lighthouse Labs.",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": "Rahul Anthony Mitra",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
